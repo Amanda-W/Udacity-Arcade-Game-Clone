@@ -9,6 +9,6 @@
 
 * HTML 5 Canvas
 
-*How to Play*  You can clone this repo to play this game from your own computer.
+*How to Play*:  You can clone this repo to play this game from your own computer.
 
 
