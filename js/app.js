@@ -79,7 +79,7 @@ class Enemy {
         this.x=x;
         this.y=y;
         this.sprite= "images/enemy-bug.png";
-        this.speed = Math.floor((Math.random() *75)+ 100);
+        this.speed = Math.floor((Math.random() *75)+ 300);
     }
     //renders the bug image
     render() {
